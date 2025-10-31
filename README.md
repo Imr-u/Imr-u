@@ -7,4 +7,4 @@ I’ve been exploring Data Engineering and I’m committed to learning by doing 
 ---
 
 - I'm based in Ethiopia.
-- You can contact me at: [my telegram acc](t.me/U_1997et)
+- You can contact me at: [my telegram](https://t.me/U_1997et)
