@@ -1,5 +1,4 @@
-# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-### I'm Emran.  
+# Hi there! I'm Emran. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)   
 Aspiring Data Engineer | Learning in Public | Building my skills through hands-on project work.
 ---
 
